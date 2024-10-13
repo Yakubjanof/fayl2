@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59338227-235f-4132-b3af-489304f3c9d5" name="Changes" comment="bir qator matn yozdim" />
+    <list default="true" id="59338227-235f-4132-b3af-489304f3c9d5" name="Changes" comment="2004 yil tug'ulganamn">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,21 +19,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Yakubjanof"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Yakubjanof&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Yakubjanof/fayl2.git",
-    "accountId": "b5bcd9f6-8889-4d9c-90c7-245fa9fd8154"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Yakubjanof/fayl2.git&quot;,
+    &quot;accountId&quot;: &quot;b5bcd9f6-8889-4d9c-90c7-245fa9fd8154&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2nNoGJBb0Mn9WYTt0DnWudmUF23" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,6 +44,10 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -63,6 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1728822797404</updated>
       <workItem from="1728822798462" duration="208000" />
+      <workItem from="1728823415247" duration="315000" />
     </task>
     <task id="LOCAL-00001" summary="bir qator matn yozdim">
       <option name="closed" value="true" />
@@ -72,7 +79,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728822916750</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="salom">
+      <option name="closed" value="true" />
+      <created>1728823524363</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728823524363</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2004 yil tug'ulganamn">
+      <option name="closed" value="true" />
+      <created>1728823603089</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728823603089</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +103,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bir qator matn yozdim" />
-    <option name="LAST_COMMIT_MESSAGE" value="bir qator matn yozdim" />
+    <MESSAGE value="salom" />
+    <MESSAGE value="2004 yil tug'ulganamn" />
+    <option name="LAST_COMMIT_MESSAGE" value="2004 yil tug'ulganamn" />
   </component>
 </project>
